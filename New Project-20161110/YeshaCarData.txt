@@ -1,0 +1,6 @@
+YeshaTypeInfo,YeshaColour,YeshaManufactory,YeshaYear
+YeshaCarInfo,YeshaRed,YeshaBMW,2014
+YeshaWheelInfo,YeshaBlue,YeshaHONDA,2015
+YeshaWheelInfo,YeshaRed,YeshaTOYOTA,2017
+YeshaWheelInfo,YeshaRed,YeshaBMW,2011
+YeshaWheelInfo,YeshaYellow,YeshaHONDA,2014    
